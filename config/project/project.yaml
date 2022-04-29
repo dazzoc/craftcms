@@ -1,0 +1,23 @@
+dateModified: 1651246324
+email:
+  fromEmail: dazzo.chris@gmail.com
+  fromName: 'Crafty Coffee'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    05158a59-dea6-4c14-a43e-c25e02fda962: Common # Common
+    bc987734-00ca-42f5-85c5-7c62b3db53d0: 'Crafty Coffee' # Crafty Coffee
+    decce07e-5a06-4294-9c2c-b084fb0720fc: 'Crafty Coffee' # Crafty Coffee
+system:
+  edition: pro
+  live: true
+  name: 'Crafty Coffee'
+  retryDuration: null
+  schemaVersion: 3.7.33
+  timeZone: America/Chicago
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
