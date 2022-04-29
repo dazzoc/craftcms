@@ -1,0 +1,19 @@
+columnSuffix: munopezt
+contentColumnType: text
+fieldGroup: 937f365a-c9f0-4a09-a7be-6a526f2dff0e # Drinks
+handle: introduction
+instructions: 'short description at top of page.'
+name: Introduction
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: null
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: none
+type: craft\fields\PlainText

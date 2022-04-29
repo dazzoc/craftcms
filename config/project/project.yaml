@@ -1,13 +1,17 @@
-dateModified: 1651246324
+dateModified: 1651267226
 email:
   fromEmail: dazzo.chris@gmail.com
   fromName: 'Crafty Coffee'
   transportType: craft\mail\transportadapters\Sendmail
 meta:
   __names__:
+    8d2130e2-a00f-41a5-8af3-76e5993429d1: Introduction # Introduction
+    937f365a-c9f0-4a09-a7be-6a526f2dff0e: Drinks # Drinks
     05158a59-dea6-4c14-a43e-c25e02fda962: Common # Common
     bc987734-00ca-42f5-85c5-7c62b3db53d0: 'Crafty Coffee' # Crafty Coffee
+    bd6ac920-039b-4315-826d-b9e9800c53af: Drinks # Drinks
     decce07e-5a06-4294-9c2c-b084fb0720fc: 'Crafty Coffee' # Crafty Coffee
+    e330de3e-1f67-4aa3-975a-65850b7b36e6: Drinks # Drinks
 system:
   edition: pro
   live: true

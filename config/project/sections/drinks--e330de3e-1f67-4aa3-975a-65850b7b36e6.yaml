@@ -1,0 +1,24 @@
+defaultPlacement: end
+enableVersioning: true
+handle: drinks
+name: Drinks
+previewTargets:
+  -
+    __assoc__:
+      -
+        - label
+        - 'Primary entry page'
+      -
+        - urlFormat
+        - '{url}'
+      -
+        - refresh
+        - '1'
+propagationMethod: all
+siteSettings:
+  bc987734-00ca-42f5-85c5-7c62b3db53d0: # Crafty Coffee
+    enabledByDefault: true
+    hasUrls: true
+    template: drinks/_entry
+    uriFormat: 'drinks/{slug}'
+type: channel
